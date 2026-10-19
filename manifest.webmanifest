@@ -1,0 +1,1 @@
+{"name": "Kimu Studio", "short_name": "Kimu Studio", "start_url": "./", "display": "standalone", "background_color": "#101421", "theme_color": "#161c2c", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
